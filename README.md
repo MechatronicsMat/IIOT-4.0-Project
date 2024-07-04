@@ -1,14 +1,14 @@
 # IIOT-4.0-Project
 
 __Sponsored by the National Science Foundation (Award Number: 2202201)__
-
-__by: Matthew Graff, Neiro Cabrera, William (Bill) Kerney, Meagan Eggert__
-
 __From: Clovis Community College in Fresno, California__
+__Instructors: Matthew Graff and William (Bill) Kerney__
+__Student Wrokers: Neiro Cabrera, Meagan Eggert, Julian Perry Laxamana, Gurkaran Singh__
 
-This project's purpose is to bring exposure to concepts regarding Fourth Industrial Revolution and Industry 4.0 at minimal cost. This is specifically designed for demonstrations at the High School level and more in depth training at the college level. Additionally, the demo serves as a great starting point for anyone interested in learning on a functioning prototype.
+##Project Description
+The purpose of this project is to introduce concepts related to the Fourth Industrial Revolution and Industry 4.0 at minimal cost. It is tailored for demonstrations at the high school level and offers more in-depth training opportunities at the college level. Moreover, this demo serves as an ideal starting point for anyone interested in learning through hands-on experience with a functional prototype.
 
-This repo will contain steps to set up a system to create an Internet of Things (IOT) using Arduino ESP32s as clients and a [Raspberry Pi](https://www.raspberrypi.org/) as an MQTT Broker using [Mosquitto](https://mosquitto.org/). It will also include a GUI designed for reading the data being published on this project using [dearImgui](https://github.com/ocornut/imgui). It also uses a SCADA system called [Ignition by Inductive Automation](https://inductiveautomation.com/ignition/) to view the data from the MQTT broker as well. This README will explain how to recreate this demo using all the parts described above.
+This repository will provide instructions for setting up a system to create an Internet of Things (IoT) using Arduino ESP32s as clients and a Raspberry Pi (see:https://www.raspberrypi.org/) as an MQTT Broker, integrated with SCADA using Ignition by Inductive Automation (see: https://inductiveautomation.com/ignition/). The README will guide you through recreating this demonstration using the specified components, followed by a brief tutorial.
 
 ## Getting Started
 
